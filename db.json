@@ -2,7 +2,7 @@
   "postcoder": [
     {
       "Success": true,
-      "Message": "multiple",
+      "Message": "UK@STATE|Dorset@CTY|{Bournemouth@LOC,BH@PCDA}@LOC|{Manor Road@STR,BH1@PCDD,BH1-3@PCDS}@STR UK@STATE|Merseyside@CTY|{Sutton Manor@LOC,St. Helens@PTN,WA@PCDA,WA9@PCDD,WA9-4@PCDS}@LOC UK@STATE|Greater London@CTY UK@STATE|Surrey@CTY UK@STATE|Kent@CTY UK@STATE|West Yorkshire@CTY UK@STATE|{County Antrim@CTY,BT@PCDA}@CTY UK@STATE|Hampshire@CTY UK@STATE|North Yorkshire@CTY UK@STATE|South Yorkshire@CTY UK@STATE|West Midlands@CTY UK@STATE|Devon@CTY UK@STATE|Dorset@CTY UK@STATE|Lancashire@CTY UK@STATE|Merseyside@CTY UK@STATE|Somerset@CTY UK@STATE|{County Armagh@CTY,BT@PCDA}@CTY UK@STATE|West Sussex@CTY UK@STATE|Lincolnshire@CTY UK@STATE|Cheshire@CTY UK@STATE|Essex@CTY UK@STATE|{County Down@CTY,BT@PCDA}@CTY UK@STATE|Oxfordshire@CTY UK@STATE|Wiltshire@CTY UK@STATE|Hertfordshire@CTY UK@STATE|Norfolk@CTY UK@STATE|Northamptonshire@CTY UK@STATE|Derbyshire@CTY UK@STATE|Nottinghamshire@CTY UK@STATE|Leicestershire@CTY",
       "Data": {
         "count": 75,
         "list": [
